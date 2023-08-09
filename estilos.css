@@ -304,6 +304,25 @@ html{
 .contacto .contenido-seccion .fila .col h2{
     color: #940253;
 }
+
+.sobremi .contenido-seccion .fila .col .fa-user:hover{
+font-size: 20px;
+background-color:#940253;
+color: #fff;
+transition: 1s;
+}
+.sobremi .contenido-seccion .fila .col .fa-location-pin:hover{
+font-size: 20px;
+background-color:#940253;
+color: #fff;
+transition: 1s;
+}
+.sobremi .contenido-seccion .fila .col .fa-flag:hover{
+font-size: 20px;
+background-color:#940253;
+color: #fff;
+transition: 1s;
+}    
 /* SECCION RESPONSIVE */
 @media screen and (max-width:800px){
     .habilidades .contenido-seccion .fila{
