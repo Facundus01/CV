@@ -1,2 +1,2 @@
 # CV
-<img src="./img/fondoGit.png">
+<img src="./img/fondoCV.png">
